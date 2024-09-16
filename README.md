@@ -1,8 +1,7 @@
-<h1 style="text-align: center; font-size: 3em; color: #4285F4;">Terraform on Google Cloud</h1>
+<h1> Terraform on Google Cloud </h1>
 
-<p style="text-align: center; font-size: 1.2em; color: #333;">
-  This repository is designed to help you learn Terraform and explore how to use it for deploying resources and services on Google Cloud Platform (GCP). Here, you'll find example scripts and configurations to get you started with infrastructure as code.
-</p>
+<p align="justify">
+  Hi, I'm <a href="https://www.linkedin.com/in/vikalp-shukla-a9b36b203"> Vikalp </a> and I’ve created this repository to serve as a learning resource for Terraform on Google Cloud. It is designed to help you understand how to use Terraform for deploying resources and services on Google Cloud Platform (GCP). Here, you'll find example scripts and configurations to get you started with infrastructure as code. </p>
 
 <div style="text-align: center;">
     <a href="https://www.terraform.io"> <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.svg" alt="Google Cloud Logo" width="193.8"/> <a/>
