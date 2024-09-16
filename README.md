@@ -5,8 +5,8 @@
 </p>
 
 <div style="text-align: center;">
-    <a href="https://www.terraform.io"> <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.svg" alt="Google Cloud Logo" width="195"/> <a/>
-    <a href="https://cloud.google.com/docs/overview"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg" alt="Google Cloud Logo" width="195"/> <a/>
+    <a href="https://www.terraform.io"> <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.svg" alt="Google Cloud Logo" width="193.8"/> <a/>
+    <a href="https://cloud.google.com/docs/overview"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg" alt="Google Cloud Logo" width="193.8"/> <a/>
 </div>
 
 <h2 style="color: #34A853;">💻 About this Repository</h2>
