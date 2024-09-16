@@ -29,7 +29,7 @@
     Clone this repository and explore the various examples. Each folder contains the example Terraform scripts for different GCP services.
 </p>
 
-<h3 style="color: #4285F4;">Prerequisites:</h3>
+<h3 style="color: #4285F4;">📋 Prerequisites:</h3>
 <ul style="font-size: 1.1em; color: #444;">
     <li>Terraform installed locally: <a href="https://www.terraform.io/downloads.html" target="_blank">Download Terraform</a></li>
     <li>Google Cloud SDK: <a href="https://cloud.google.com/sdk/docs/install" target="_blank">Install GCloud CLI</a></li>
